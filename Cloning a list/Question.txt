@@ -1,0 +1,6 @@
+Cloning or Copying a list
+Below are a few ways by which we can clone or copy a list in Python:
+
+Using the slicing technique 
+Using the extend() method 
+List copy using =(assignment operator)
