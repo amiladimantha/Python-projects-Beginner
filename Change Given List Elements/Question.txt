@@ -1,0 +1,1 @@
+Given a list in Python and provided the positions of the elements, write a program to swap the two elements in the list. 
